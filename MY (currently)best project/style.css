@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: aqua;
+    border-color:rebeccapurple;
+    border-style: groove;
+}
+
+h1 {
+    font-family: cursive;
+}
